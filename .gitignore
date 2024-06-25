@@ -1,0 +1,12 @@
+.vagrant/bundler/global.sol
+.vagrant/machines/docker/virtualbox/action_provision
+.vagrant/machines/docker/virtualbox/action_set_name
+.vagrant/machines/docker/virtualbox/box_meta
+.vagrant/machines/docker/virtualbox/creator_uid
+.vagrant/machines/docker/virtualbox/id
+.vagrant/machines/docker/virtualbox/index_uuid
+.vagrant/machines/docker/virtualbox/private_key
+.vagrant/machines/docker/virtualbox/synced_folders
+.vagrant/machines/docker/virtualbox/vagrant_cwd
+.vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory
+.vagrant/rgloader/loader.rb
